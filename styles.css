@@ -1,1 +1,14 @@
 /* your code */
+*{
+	border : 2px solid black;
+}
+#main{
+	background-color: blue;
+	color:white
+}
+.white{
+	
+}
+.black{
+	background-color:lightblue
+}
